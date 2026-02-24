@@ -1,0 +1,26 @@
+{
+    "SMAH": {
+        "name": "Dr. S.M Aminul Haque (SMAH)",
+        "designation": "Professor & Associate Head",
+        "img": "https://faculty.daffodilvarsity.edu.bd/images/teacher/7d5f134bd91b7a2d67710c661c94fc49.JPG",
+        "email": "aheadcse2@daffodilvarsity.edu.bd",
+        "phone": "01847140129",
+        "room": "KT-205"
+    },
+    "AK": {
+        "name": "Ashraful Kabir (AK)",
+        "designation": "Senior Lecturer",
+        "img": "https://cdn-icons-png.flaticon.com/512/3135/3135715.png",
+        "email": "akabir@daffodilvarsity.edu.bd",
+        "phone": "017xxxxxxxx",
+        "room": "AB4-102"
+    },
+    "RK": {
+        "name": "Rokeya Khatun (RK)",
+        "designation": "Lecturer",
+        "img": "rokeya_mem.jpg",
+        "email": "rokeya.cse@daffodilvarsity.edu.bd",
+        "phone": "016xxxxxxxx",
+        "room": "AB4-3"
+    }
+}
